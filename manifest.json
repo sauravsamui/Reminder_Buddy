@@ -1,0 +1,23 @@
+{
+  "name": "Reminder Buddy",
+  "version": "1.3",
+  "description": "A clock with two configurable alarms that will play a sound and speak a phrase of your choice.",
+  "permissions": [ "background", "tts" ],
+
+  "background": { "scripts": ["common.js", "background.js"] },
+
+  "browser_action": {
+    "default_icon": "funny-alaram4.png",
+    "default_title": "Reminder Buddy",
+    "default_popup": "popup.html"
+  },
+
+  "icons": {
+    "16": "funny-alaram4.png",
+    "48": "funny-alaram4.png",
+    "128": "funny-alaram4.png",
+    "256": "funny-alaram4.png"
+  },
+
+  "manifest_version": 2
+}
