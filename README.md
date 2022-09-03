@@ -1,8 +1,8 @@
 
 Reminder Buddy
 =======
-
-A clock with two configurable alarms that will play a sound and speak a phrase of your choice.
+- It is an <b>chrome extension</b> (compatible with other browser as well) 
+- A clock with two configurable alarms that will play a sound and speak a phrase of your choice.
 
 Credit for [canvas clock](https://codepen.io/tarick)
 Credit for code - open-source(google and github)
